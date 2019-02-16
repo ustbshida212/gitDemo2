@@ -1,2 +1,6 @@
 创建hello2
+<<<<<<< HEAD
 在hello2中来自clone修改的内容
+=======
+又修改了hello2的内容
+>>>>>>> 48e823e1cd26145c6dd05e8dec5154cd1057a2b5
